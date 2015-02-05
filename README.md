@@ -1,2 +1,2 @@
-# cs389spring2015
+# This is my repository!
 Software Engineering
